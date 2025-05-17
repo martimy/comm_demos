@@ -1,15 +1,9 @@
 # Demoes
 
-Demo code for basic communication concepts.
+Python demo code for basic communication concepts.
 
 
-## Installation
-
-- `numpy`
-- `matplotlib`
-
-
-### Installation Instructions
+## Installation Instructions
 
 These instructions assume you are using a Python virtual environment to manage dependencies.
 
